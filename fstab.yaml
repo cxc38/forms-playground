@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://author-p171025-e1975203.adobeaemcloud.com/bin/franklin.delivery/cxc38/forms-playground/main
+    type: "markup"
+    suffix: ".html"
